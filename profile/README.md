@@ -4,7 +4,7 @@
 
 ## About
 
-lorum ipsum
+Specializing in research on network and distributed system security, AI and security, intrusion detection, vulnerability analysis, secure programming, digital forensics, and cybersecurity education.
 
 ### Professors
 ---
