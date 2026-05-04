@@ -8,7 +8,7 @@ Specializing in research on network and distributed system security, AI and secu
 
 ### Professors
 ---
-- [Dr. Jun Dai](https://cyberdaij.github.io/)
+- [Dr. Jun Dai](https://www.wpi.edu/people/faculty/jdai)
 - [Dr. Xiaoyan Sherry Sun](https://www.wpi.edu/people/faculty/xsun7)
 
 ### Members
