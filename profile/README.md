@@ -17,5 +17,4 @@ Specializing in research on network and distributed system security, AI and secu
 - [Tran Ngoc Bao Huynh]()
 - [Cooper Dean]()
 - [Chao Wang]()
-- [Haowen Xu]()
 - [Zhihao Zhang]()
